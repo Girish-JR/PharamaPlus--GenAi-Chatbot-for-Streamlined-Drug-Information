@@ -1,1 +1,1 @@
-# PharamaPlus--GenAi-Chatbot-for-Streamlined-Drug-Information
+# PharamaPlus--GenAi-Chatbot-for-Streamlined-Drug-Information for Phase1
